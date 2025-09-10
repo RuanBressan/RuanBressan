@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Ruan.</h2>
+<h2 align="left">Olá! Meu nome é Ruan.</h2>
 
 ###
 
@@ -50,8 +50,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RuanBressan/RuanBressan/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanBressan/RuanBressan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuanBressan/RuanBressan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RuanBressan/RuanBressan/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
